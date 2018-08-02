@@ -1,0 +1,37 @@
+{
+    "store": {
+        "phone": [
+            {
+                "id": 1,
+                "model": "iPhone 3G",
+                "color": "gold",
+                "price": 200
+            },
+            {
+                "id": 2,
+                 "model": "iPhone 3GS",
+                 "color": "gold",
+                 "price": 300
+            },
+            {
+                 "id": 3,
+                 "model": "iPhone 4",
+                 "color": "silver",
+                "price": 450
+            },
+            {
+                 "id": 4,
+                 "model": "iPhone 5",
+                 "color": "silver",
+                 "price": 600
+            },
+            {
+                  "id": 5,
+                  "model": "iPhone 6",
+                  "color": "black",
+                  "price": 600
+            }
+        ]
+       
+    } 
+}
